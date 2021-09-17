@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AsimShahid/artasia/static/css/main.ed4dc710.chunk.css",
+    "main.js": "/AsimShahid/artasia/static/js/main.5b3b18ab.chunk.js",
+    "main.js.map": "/AsimShahid/artasia/static/js/main.5b3b18ab.chunk.js.map",
+    "runtime-main.js": "/AsimShahid/artasia/static/js/runtime-main.c6856b4a.js",
+    "runtime-main.js.map": "/AsimShahid/artasia/static/js/runtime-main.c6856b4a.js.map",
+    "static/js/2.1669db18.chunk.js": "/AsimShahid/artasia/static/js/2.1669db18.chunk.js",
+    "static/js/2.1669db18.chunk.js.map": "/AsimShahid/artasia/static/js/2.1669db18.chunk.js.map",
+    "static/js/3.7ebb7da2.chunk.js": "/AsimShahid/artasia/static/js/3.7ebb7da2.chunk.js",
+    "static/js/3.7ebb7da2.chunk.js.map": "/AsimShahid/artasia/static/js/3.7ebb7da2.chunk.js.map",
+    "index.html": "/AsimShahid/artasia/index.html",
+    "static/css/main.ed4dc710.chunk.css.map": "/AsimShahid/artasia/static/css/main.ed4dc710.chunk.css.map",
+    "static/js/2.1669db18.chunk.js.LICENSE.txt": "/AsimShahid/artasia/static/js/2.1669db18.chunk.js.LICENSE.txt",
+    "static/media/Concert.748f3294.mp4": "/AsimShahid/artasia/static/media/Concert.748f3294.mp4",
+    "static/media/Cover_black.c7141eb5.jpg": "/AsimShahid/artasia/static/media/Cover_black.c7141eb5.jpg",
+    "static/media/frontcover.cae45ed6.png": "/AsimShahid/artasia/static/media/frontcover.cae45ed6.png",
+    "static/media/logo.6ce24c58.svg": "/AsimShahid/artasia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6856b4a.js",
+    "static/js/2.1669db18.chunk.js",
+    "static/css/main.ed4dc710.chunk.css",
+    "static/js/main.5b3b18ab.chunk.js"
+  ]
+}
