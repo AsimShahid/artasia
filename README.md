@@ -1,2 +1,2 @@
 # artasia
-Artist &amp; Event Management
+Artist &amp; Event Showcase
