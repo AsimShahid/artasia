@@ -1,0 +1,211 @@
+h3{
+	padding-left: 20px;
+    text-decoration: overline;
+    text-align: left;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+	font-weight: 100;
+	font-size: 30px;
+	color: white;
+}
+@media only screen and (min-width: 600px) {
+	.containerpre{
+		width: 500px;
+		margin-top:7em !important; 
+	}
+  }
+.container {
+	margin: 36px auto;
+	width: 100%;
+	max-width: 800px;
+}
+
+.inputbox{
+	text-align: left;
+    border-left: 3px solid white;
+    margin-left: 20px;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.containerpre{
+	
+	margin: 36px auto;
+	min-height: 500px;
+	max-width: 800px;
+	background:transparent;
+    border: 12px solid #ffffff;
+	background-position: center;	
+}
+
+
+.heading {
+	font-size: 30px;
+	padding: 16px 0;
+	color: rgb(255, 255, 255);
+	text-align: center;
+}
+
+.search-label {
+	position: relative;
+	color: white;
+	text-decoration: underline;
+}
+
+.search-input {
+	padding: 10px;
+	font-size: 20px;
+	box-sizing: border-box;
+	color: white;
+	outline: none;
+	border: none;
+	font-weight: 100;
+	background: transparent;
+	
+}
+::placeholder {
+	color:white;
+	opacity: 1; 
+  }
+.artistname{
+	text-align: left;
+	font-weight: 300;
+	color: white;
+	border-left: 3px solid white;
+	font-size: 25px;
+	margin: 10px;
+	padding-left: 10px;
+}
+
+.sociallink{
+	text-decoration:none; 
+	color:white;
+	border:none; 
+	
+	}
+	.moreinfo{
+		text-align: left;
+		color: white;
+		font-size: 20px;
+	}
+	.count{
+		text-align: left;
+		color: white;
+		font-size: 25px;
+		margin: 0;
+	}
+.Eventsdata{
+	margin-left: 170px;
+    transform: rotate(-90deg);
+    offset-rotate: 20;
+	position:absolute;
+	margin-top: 70px;
+	border: 5px solid white;
+    border-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.artistsocial{
+	text-align: left;
+	text-underline-offset: 5px;
+	font-weight: 300;
+	color: white;
+	font-size: 10px;
+	margin: 10px;
+	text-decoration: underline 3px;
+}
+.search-icon {
+	position: absolute;
+	top: -10px;
+	font-size: 24px;
+	color: #555;
+	right: 18px;
+}
+
+/*Result Container*/
+.results-container {
+	display: inline-flex;
+	flex-flow: wrap;
+}
+
+.result-item {
+	position: relative;
+	padding: 16px;
+	/*border: 1px solid #898989;
+	*/
+	margin: 16px;
+	text-align: center;
+	min-width: 200px;
+}
+
+.image-username {
+	color: #ff7f50;
+	font-size: 18px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 0;
+	background-color: rgba( 0 ,0 ,0 , 0.8 );
+	padding: 5px 10px;
+}
+
+.image-wrapper {
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	box-sizing: border-box;
+	height: 80%;
+	
+}
+
+.image {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+border:5px;
+	box-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+
+/*Loader*/
+.search-loading {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+/*Show and hide*/
+.show {
+	display: inline-block;
+}
+
+.hide {
+	display: none;
+}
+
+.text-data{
+	margin-left: -140px;
+	
+    margin-top: -10px;
+
+}
+/*Prev and next*/
+
+.nav-link-container {
+	margin: 20px 0;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.nav-link {
+	color: #555;
+	text-decoration: none;
+	border: 1px solid #898989;
+	padding: 10px 20px;
+	margin-right: 10px;
+}
+
+.greyed-out {
+	background: #f1f1f1;
+	opacity: 0.5;
+}
